@@ -1,0 +1,26 @@
+Full flow test, kendi kendine test etmesi.
+
+Sayfa linkleri üzerine geldiğinde, kalınlaşsın
+**Puppeteer** entegrasyonu: Web sitelerini otomatik test etme
+
+
+
+
+Claude Code üzerinden bir web sayfası tasarlayacağım, sende bana uzman bir yazılım geliştirmeci gibi yardım edecek, ön görmediğim sorunları öncesinden uyaracaksın, bir kaç seçenek olduğunda bana sorup ona göre yapacaksın. yardımcı programlar varsa onları kullanıp hem projeyi hızlandıracağız, hem de daha önceden tecrübe edilmiş programlar kullanacaksın, ama bunların her zaman güvenliğinden emin olacaksın. Görselleri bulacaksın ve sayfada kullanacaksın.
+Web sayfasınu oluştururken mutlaka bana sorarak ilerle ama renki coşkulu motorcuların eğleneceği bir site olacak
+
+
+
+- Claude Code Extension Marketplace kullanımı
+- Popüler plugin'ler:
+  - **21st.dev**: UI component kütüphanesi
+  - **Playwright**: Web otomasyonu ve test
+  - **Remotion**: Video düzenleme ve üretme
+  - **Ollama**: Yerel model çalıştırma
+  - **DeepL**: Otomatik çeviri
+- Plugin bulma kaynakları:
+  - GitHub (haftanın/ayın popüler projeleri)
+  - Twitter/X
+  - Sosyal medya
+- Güvenlik kuralı: Sadece resmi veya topluluk tarafından onaylanmış plugin'ler kullanın
+

@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "solutions": "Çözümler",
+    "features": "Özellikler",
+    "partners": "Partnerler",
+    "resources": "Kaynaklar",
+    "about": "Hakkımızda",
+    "contact": "İletişim",
+    "demo": "Demo Talep Et"
+  },
+  "hero": {
+    "tag": "Güvenli · Ölçeklenebilir · Modern",
+    "title": "Yazıcıları ve Baskıları Yönetin",
+    "subtitle": "TomboPrint, modern işletmelerde doküman baskısının zorluklarını çözen güvenli, ölçeklenebilir ve akıllı bir platformdur.",
+    "cta_primary": "Demo Talep Et",
+    "cta_secondary": "Özellikleri Keşfet"
+  },
+  "stats": {
+    "s1_num": "%50",
+    "s1_lbl": "Daha Az Help Desk Çağrısı",
+    "s2_num": "%30",
+    "s2_lbl": "Maliyet Tasarrufu",
+    "s3_num": "%3",
+    "s3_lbl": "Toplam Baskı Maliyeti",
+    "s4_num": "140+",
+    "s4_lbl": "Ülkede Kullanım"
+  },
+  "features": {
+    "title": "Her İhtiyaca Uygun Özellikler",
+    "subtitle": "Güvenlikten buluta, izlemeden analize — tüm baskı yönetimi tek platformda.",
+    "f1_title": "Güvenli Baskı",
+    "f1_desc": "Kart ve PIN ile erişim kontrolü. Gizlilik sağlanır, dolaşan kullanıcılar desteklenir.",
+    "f2_title": "Baskı Muhasebesi",
+    "f2_desc": "Kullanıcı veya departman bazında takip, kota uygulama ve detaylı raporlar.",
+    "f3_title": "Yazıcı İzleme",
+    "f3_desc": "Toner ve kağıt takibi, sorun bildirimleri ve otomatik destek bileti oluşturma.",
+    "f4_title": "Bulut & Mobil Baskı",
+    "f4_desc": "Ofis dışından baskı, cloud entegrasyonu ve mobil uygulama desteği.",
+    "f5_title": "Tarama İş Akışları",
+    "f5_desc": "Belge tarama ve doküman yönetim sistemlerine entegrasyon.",
+    "f6_title": "Cihaz Yönetimi",
+    "f6_desc": "Tüm yazıcı filosunu tek panelden yapılandır, kontrol et, güncelle."
+  },
+  "solutions": {
+    "title": "Sektörünüze Özel Çözümler",
+    "subtitle": "Sağlıktan eğitime, finans'tan kamu'ya — TomboPrint her sektörün ihtiyacını karşılar.",
+    "healthcare": "Sağlık",
+    "education": "Eğitim",
+    "banking": "Bankacılık & Finans",
+    "government": "Kamu",
+    "sme": "KOBİ",
+    "legal": "Hukuk"
+  },
+  "blog": {
+    "title": "Blog & Kaynaklar",
+    "subtitle": "Baskı yönetimi, güvenlik ve dijital dönüşüm hakkında güncel içerikler.",
+    "read_more": "Devamını Oku"
+  },
+  "about": {
+    "title": "Hakkımızda",
+    "subtitle": "TomboPrint olarak kurumsal baskı yönetimini daha akıllı, daha güvenli ve daha sürdürülebilir hale getiriyoruz.",
+    "mission": "Misyonumuz",
+    "mission_text": "İşletmelerin yazıcı altyapısını tam kontrol altına almasını sağlamak; maliyetleri düşürmek, güvenliği artırmak ve operasyonel verimliliği maksimize etmek.",
+    "address": "Adres",
+    "email": "E-posta",
+    "phone": "Telefon"
+  },
+  "contact": {
+    "title": "İletişime Geçin",
+    "subtitle": "Sorularınız için bize ulaşın. En kısa sürede geri döneceğiz.",
+    "name": "Ad Soyad",
+    "email": "E-posta",
+    "company": "Şirket",
+    "message": "Mesajınız",
+    "send": "Gönder",
+    "success": "Mesajınız iletildi. Teşekkürler!"
+  },
+  "demo": {
+    "title": "Demo Talep Et",
+    "subtitle": "TomboPrint'i yakından görmek için demo talebinde bulunun.",
+    "name": "Ad Soyad",
+    "email": "Kurumsal E-posta",
+    "company": "Şirket Adı",
+    "phone": "Telefon",
+    "submit": "Demo Talep Et",
+    "success": "Talebiniz alındı! Ekibimiz sizinle iletişime geçecek."
+  },
+  "footer": {
+    "desc": "Güvenli, ölçeklenebilir ve modern baskı yönetim platformu.",
+    "solutions": "Çözümler",
+    "company": "Şirket",
+    "rights": "Tüm hakları saklıdır."
+  }
+}

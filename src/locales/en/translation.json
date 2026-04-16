@@ -1,0 +1,94 @@
+{
+  "nav": {
+    "solutions": "Solutions",
+    "features": "Features",
+    "partners": "Partners",
+    "resources": "Resources",
+    "about": "About",
+    "contact": "Contact",
+    "demo": "Request Demo"
+  },
+  "hero": {
+    "tag": "Secure · Scalable · Modern",
+    "title": "Manage Printouts and Printers",
+    "subtitle": "TomboPrint is a secure, scalable and modern print management platform to help solve challenges in document printing in the modern enterprise.",
+    "cta_primary": "Request Demo",
+    "cta_secondary": "Explore Features"
+  },
+  "stats": {
+    "s1_num": "50%",
+    "s1_lbl": "Fewer Help Desk Calls",
+    "s2_num": "30%",
+    "s2_lbl": "Potential Cost Savings",
+    "s3_num": "3%",
+    "s3_lbl": "Total Print Cost",
+    "s4_num": "140+",
+    "s4_lbl": "Countries Worldwide"
+  },
+  "features": {
+    "title": "Features for Every Need",
+    "subtitle": "From security to cloud, from monitoring to analytics — all print management in one platform.",
+    "f1_title": "Secure Printing",
+    "f1_desc": "Control access with cards and PINs. Ensure privacy and support roaming users.",
+    "f2_title": "Print Accounting",
+    "f2_desc": "Track by user or department, apply quotas, and generate detailed reports.",
+    "f3_title": "Printer Monitoring",
+    "f3_desc": "Monitor toner and paper, receive alerts, and auto-create support tickets.",
+    "f4_title": "Cloud & Mobile Print",
+    "f4_desc": "Print from anywhere with cloud integration and mobile app support.",
+    "f5_title": "Scanning Workflows",
+    "f5_desc": "Document scanning and integration with document management systems.",
+    "f6_title": "Device Management",
+    "f6_desc": "Configure, control, and update your entire printer fleet from one dashboard."
+  },
+  "solutions": {
+    "title": "Solutions by Industry",
+    "subtitle": "From healthcare to education, finance to government — TomboPrint meets every sector's needs.",
+    "healthcare": "Healthcare",
+    "education": "Education",
+    "banking": "Banking & Finance",
+    "government": "Government",
+    "sme": "SMB",
+    "legal": "Legal"
+  },
+  "blog": {
+    "title": "Blog & Resources",
+    "subtitle": "Latest insights on print management, security, and digital transformation.",
+    "read_more": "Read More"
+  },
+  "about": {
+    "title": "About Us",
+    "subtitle": "At TomboPrint, we make enterprise print management smarter, safer and more sustainable.",
+    "mission": "Our Mission",
+    "mission_text": "To give businesses full control over their printer infrastructure — reducing costs, improving security, and maximizing operational efficiency.",
+    "address": "Address",
+    "email": "Email",
+    "phone": "Phone"
+  },
+  "contact": {
+    "title": "Get in Touch",
+    "subtitle": "Have questions? We'd love to hear from you.",
+    "name": "Full Name",
+    "email": "Email",
+    "company": "Company",
+    "message": "Your Message",
+    "send": "Send Message",
+    "success": "Message sent. Thank you!"
+  },
+  "demo": {
+    "title": "Request a Demo",
+    "subtitle": "See TomboPrint in action — request a personalized demo today.",
+    "name": "Full Name",
+    "email": "Work Email",
+    "company": "Company Name",
+    "phone": "Phone",
+    "submit": "Request Demo",
+    "success": "Request received! Our team will contact you shortly."
+  },
+  "footer": {
+    "desc": "Secure, scalable and modern print management platform.",
+    "solutions": "Solutions",
+    "company": "Company",
+    "rights": "All rights reserved."
+  }
+}
